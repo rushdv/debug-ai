@@ -1,0 +1,10 @@
+README.md
+setup.py
+debug_ai/__init__.py
+debug_ai/cli.py
+debug_ai.egg-info/PKG-INFO
+debug_ai.egg-info/SOURCES.txt
+debug_ai.egg-info/dependency_links.txt
+debug_ai.egg-info/entry_points.txt
+debug_ai.egg-info/requires.txt
+debug_ai.egg-info/top_level.txt

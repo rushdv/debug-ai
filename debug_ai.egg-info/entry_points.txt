@@ -1,0 +1,2 @@
+[console_scripts]
+fix = debug_ai.cli:main

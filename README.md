@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/debug-ai/main/assets/banner.png" alt="DebugAI Banner" width="800">
+  <img src="assets/banner.png" alt="DebugAI Banner" width="800">
 </p>
 
 # 🛠️ DebugAI: AI-Powered Terminal Error Fixer
